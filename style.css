@@ -1,0 +1,40 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	background: #477979;
+}
+
+h1 {
+	margin: 5px;
+	color: white;
+}
+
+.Instruction {
+	color: white;
+	font-size: 20px;
+	margin-top: 400px;
+}
+
+.boxgrid {
+	width: 850px;
+	height: 700px;
+	border: solid 2px #8399AF;
+}
+.car {
+	position: absolute;
+	top: 500px;
+	left: 350px;
+}
+
+.ParkingLot {
+	position: absolute;
+	top: 87.5px;
+}
+
+.Park {
+	position: absolute;
+	left: 330px;
+	top: 5px;
+}
